@@ -18,7 +18,7 @@ gem 'devise', '~> 3.5', '>= 3.5.3'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-grop :production do
+group :production do
 gem 'pg'
 end
 
